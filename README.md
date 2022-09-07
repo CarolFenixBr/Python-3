@@ -1,4 +1,7 @@
+<div align="center">
+
 # Python
+
 ### Curso de Python 3 do Básico Ao Avançado (com projetos reais), programação com Django, PyQT5, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos.
 
 📌Este curso está dividido da seguinte maneira:
@@ -24,3 +27,5 @@
 ✅Bônus: seções de HTML5 e CSS3
 
 ✅Bônus: seção de SQL com MySQL
+
+</div>
