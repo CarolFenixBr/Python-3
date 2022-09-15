@@ -1,5 +1,5 @@
 #Diferenças de C "escrever "para Python 'escrever'
-print('Linha 1')  #Ctrl D para replicar a linha
+print('Linha 1')  
 print('Linha 2')
 print('Linha 3')
 print('Linha 4')
